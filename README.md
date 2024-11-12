@@ -51,8 +51,10 @@ Pengguna cukup memilih nomor menu yang sesuai, dan program akan menjalankan fung
     5. Saat belanja selesai, pengguna memilih menu 4 untuk mencetak struk dan keluar dari program.
 
 ## Bentuk Program :
-   [gambar](gambar/code.png)
+   ![gambar](gambar/code.png)
 
 ## Hasil Program :
-    [gambar](gambar/ss1.png)
-    [gambar](gambar/ss2.png)
+   
+    ![gambar](gambar/ss1.png)
+    ![gambar](gambar/ss2.png)
+    
