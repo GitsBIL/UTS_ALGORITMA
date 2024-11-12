@@ -54,7 +54,5 @@ Pengguna cukup memilih nomor menu yang sesuai, dan program akan menjalankan fung
    ![gambar](gambar/code.png)
 
 ## Hasil Program :
-   
-    ![gambar](gambar/ss1.png)
-    ![gambar](gambar/ss2.png)
-    
+   ![gambar](gambar/ss1.png)
+   ![gambar](gambar/ss2.png)
